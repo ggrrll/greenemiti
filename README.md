@@ -102,8 +102,8 @@ Here are few possible locations for PV plants, on different main islands
 
 ## Costs
 
-* PV installation: in order to install ~ 4 MW → ~ 12 M€ (assuming 3 €/W)
-* Desalinizer: 3 M€ (already partially covered by EU)
+* PV installation: in order to install ~ 4 MW → ~ 4 M€ (assuming 1 €/W)
+* Desalinizer: 3 M€ (already partially covered by EU -- [source](https://www.civico93.it/a-che-punto-e-la-realizzazione-del-dissalatore-alle-isole-tremiti/) )
 
 ## Resources
 
