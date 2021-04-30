@@ -6,7 +6,7 @@ De-carbonizing [Tremiti Islands](https://en.wikipedia.org/wiki/Isole_Tremiti)
 
 Tremiti islands (in Apulia region – South Italy), being quite isolated from Italian mainland, have always had issues with basic supplies like electricity or water.
 Since years, the electricity has been produced by a [local company](https://www.germano-srl.it/), using diesel-powerd generator (~ 5 MW – see [smartisland.eu](http://www.smartisland.eu/en/replicabilita/tremiti.html)).
-Only a small fraction (~ 0.6%) of the energetic need comes from renewables (~18 kW) ([Legambiente 2018 report – Table 1.3](https://www.legambiente.it/wp-content/uploads/dossier_isole_sostenibili_2018.pdf))   
+Only a small fraction (~ 0.6%) of the energetic need comes from renewables (~18 kW) ([isolesostenibili report](https://www.isolesostenibili.it/wp-content/uploads/2020/07/ENG_SustIslands2020_ISBN.pdf))   
 
 
 The general purpose of this project is to cut down CO2 emissions from the main activities of the islands, namely, usual electricity consumption and turistic maritime and inland transportation, currently based on fossil fuels.
@@ -22,7 +22,7 @@ The current (diesel-based) mean annual electricity production is ~ **4 GWh / y**
 
 ### water supply 
 
-Fresh water supply for these types of islands is quite difficult and it's usually provided by water tankships ([Legambiente 2018 report, ch. 3](https://www.legambiente.it/wp-content/uploads/dossier_isole_sostenibili_2018.pdf))
+Fresh water supply for these types of islands is quite difficult and it's usually provided by water tankships ([isolesostenibili report](https://www.isolesostenibili.it/wp-content/uploads/2020/07/ENG_SustIslands2020_ISBN.pdf))
 
 An greener alternative would be to produce it locally.
 For instance, [Electric disalination with Reverse Osmosis](https://en.wikipedia.org/wiki/Desalination#Energy_consumption) requires about 5 kWh / m3 of water. 
@@ -60,7 +60,7 @@ Different solutions for REN energy storage have been investigated in few project
 including mainly desalinization, pumped hydro and batteries.
 
 Given the urgent need to cut down economic and carbon costs of shipping water by tankers, a first valuable solution for storage would be desalinizers (there is already one installed in  San Domino island, which does not meet the need  yet) (see also this [report by ENEA/ANCIM](https://www.enea.it/it/seguici/pubblicazioni/pdf-volumi/2019/libro_bianco_isole_minori.pdf)). 
-This solution could both quickly help with energy storage, while allowing Treminti islands to be finally independent for the production of the ~ 0.2 Mm3 of water needed yearly (as it's alrady happening  in few other small island in Italy [Legambiente 2018 report – Table 3.1](https://www.legambiente.it/wp-content/uploads/dossier_isole_sostenibili_2018.pdf)). The desalination plan was already approved in 2016, but probably bureacratic issues have critically slowed down its construction (see [related news](https://www.civico93.it/a-che-punto-e-la-realizzazione-del-dissalatore-alle-isole-tremiti/))
+This solution could both quickly help with energy storage, while allowing Treminti islands to be finally independent for the production of the ~ 0.2 Mm3 of water needed yearly (as it's alrady happening  in few other small island in Italy). The desalination plan was already approved in 2016, but probably bureacratic issues have critically slowed down its construction (see [related news](https://www.civico93.it/a-che-punto-e-la-realizzazione-del-dissalatore-alle-isole-tremiti/))
 
 ## Production (PV plants)
 
